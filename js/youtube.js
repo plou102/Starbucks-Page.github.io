@@ -14,7 +14,7 @@
      playerVars: {
        autoplay: true,
        loop: true,
-       videoId: 'An6LvWQuj_8' //반복 재생할 영상 ID
+       playlist: 'An6LvWQuj_8' //반복 재생할 영상 ID
      },
      events: {
        onReady: function (event) {
